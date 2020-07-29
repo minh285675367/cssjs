@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://bit.ly/2r37SFT';
+	var url_popup = 'https://lavidaresidences.blogspot.com/';
 
       //<![CDATA[
 	  // var url_ppp = 'https://lavidaresidences.blogspot.com/';
